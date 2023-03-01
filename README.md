@@ -1,5 +1,7 @@
 # crm-account-automation
 
+![Peek 2023-03-01 15-10](https://user-images.githubusercontent.com/98399415/222225806-22f58cb7-a61e-45c8-86bf-f4f116d18af2.gif)
+
 ### Instalação
 
 1. Baixar o projeto
@@ -43,4 +45,4 @@ Exemplo PRD:
 
 ```
 crm-account-up 1234567890 production
-``` 
+```
